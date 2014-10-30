@@ -1,0 +1,1 @@
+username=test&secret=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae&nodename=test-ws&avail_space=100000&publickey=12343F,010101&ipaddr=192.168.160.92
